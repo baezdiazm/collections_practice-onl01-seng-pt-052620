@@ -9,10 +9,5 @@ array.sort do |a, b|
     a > b
     +1
   end
-
-
-
   end
-
-
 end
